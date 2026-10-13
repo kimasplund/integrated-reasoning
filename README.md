@@ -1,3 +1,5 @@
+> **Moved:** this skill now lives in [kimasplund/thinkbetter-skills](https://github.com/kimasplund/thinkbetter-skills), together with the rest of the reasoning suite. This repo is archived.
+
 # integrated-reasoning
 
 A reasoning suite for coding agents: nine reasoning methodologies as installable skills, two infrastructure skills that let them run in parallel and hand context to each other, and a router that picks which one a problem actually calls for — or tells you no framework is warranted at all.
